@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/*  header contain */
+.header{
+    justify-content: left;
+    margin: 216px 865px 320px;
+}
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
