@@ -4,7 +4,7 @@
 }
 
 .banner {
-    background-image: url('../banner1.png');
+    background-image: url('images/banner1.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 1000px;
@@ -90,7 +90,7 @@ ul li:before {
 }
 /* styles of lower banner */
 .lower-banner{
-    background-image: url('../styles/watch.png'),url('../gradient3.png');
+    background-image: url('images/styles/watch.png'),url('images/gradient3.png');
     background-blend-mode: overlay;
     background-position: center;
     background-repeat: no-repeat;
